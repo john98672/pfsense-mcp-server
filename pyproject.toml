@@ -1,0 +1,5 @@
+[project]
+name = "pfsense-mcp-server"
+version = "0.1.0"
+description = "Model Context Protocol (MCP) server for pfSense firewall management. Control firewall rules, VPNs, DNS, DHCP and diagnostics in natural language from Claude Desktop, Claude Code or any MCP client — 333 wire-format-verified tools for the pfSense REST API, with safety guardrails, config backup and rol"
+requires-python = ">=3.10"
